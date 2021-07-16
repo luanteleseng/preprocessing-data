@@ -1,3 +1,4 @@
 # preprocessing-data
 
-Pré-processamento de dados através da organização e preparação para análise e predição.
+Esse repositório está relacionado com o pré-processamento de dados através da organização e preparação. 
+Os dados preparados são utilizadas para modelos de ML (machine learning).
